@@ -1,0 +1,6 @@
+{
+  "name": "Apuntes Electrónica II - UNLP Sonido",
+  "description": "Apuntes integrados profesionales para parcial o final de Electrónica II (UNLP). 7 clases completas, procedimientos paso a paso, diagramas técnicos y cuestionarios resueltos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
